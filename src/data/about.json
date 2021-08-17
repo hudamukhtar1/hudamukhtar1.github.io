@@ -1,0 +1,31 @@
+[{
+        "id": "Awards",
+        "title": "Awards Achieved",
+        "yearOne": "2021",
+        "yearTwo": "2020",
+        "awardItem": [{
+                "id": 1,
+                "className": "text-primary",
+                "cate": "MAY - PRESENT",
+                "title": "<span>Software Developer Intern</span> @ TD Canada Trust"
+            },
+            {
+                "id": 2,
+                "className": "text-danger",
+                "cate": "APRIL - PRESENT",
+                "title": "<span> Lead Web Developer </span> @ </br> Western Computer Science Undergraduate Society"
+            },
+            {
+                "id": 3,
+                "className": "text-warning",
+                "cate": "",
+                "title": "<span> Web Devleoper and Communications Manager </span> @ Western University"
+            }
+        ]
+    },
+    {
+        "id": "AboutContent",
+        "title": "<span>Hi!</span> I'm Huda, <br> Software Developer <br> based in Toronto.",
+        "excerpt": "See my work and software development journey"
+    }
+]
